@@ -1,0 +1,86 @@
+{
+  "Books": [
+    {
+      "title": "Unlocking Android",
+      "isbn": 1933988789,
+      "publishDate": "1998-05-31",
+      "author": "Charlie Collins",
+      "id": "f0dc"
+    },
+    {
+      "title": "Flex 3",
+      "isbn": 193398874678,
+      "publishDate": "2009-02-02",
+      "author": "Faisal Abids",
+      "id": "ca84"
+    },
+    {
+      "title": "Flex 4",
+      "isbn": "1935182420",
+      "publishDate": "2010-11-16",
+      "author": "Dan Orlando",
+      "id": "d84a"
+    },
+    {
+      "title": "h",
+      "isbn": 222222,
+      "publishDate": "2024-05-31",
+      "author": "sujithra",
+      "id": "c3ff"
+    },
+    {
+      "id": "bc3c",
+      "title": "efefe",
+      "isbn": 456,
+      "publishDate": "2024-05-30",
+      "author": "fefee"
+    },
+    {
+      "title": "React JS",
+      "isbn": 7800780098,
+      "publishDate": "2024-05-31",
+      "author": "Facebook",
+      "id": "2f2c"
+    },
+    {
+      "id": "2531",
+      "title": "Kitty",
+      "isbn": 6767678989,
+      "publishDate": "2024-05-28",
+      "author": "Nani"
+    },
+    {
+      "id": "a6e6",
+      "title": "Mahi",
+      "isbn": 1234567654,
+      "publishDate": "2024-05-26",
+      "author": "Nanna"
+    }
+  ],
+  "Authors": [
+    {
+      "id": "cdb1",
+      "name": "Alex Rie",
+      "born": "1995-03-11",
+      "bio": "Alex is a good fictional writer, published many books."
+    },
+    {
+      "name": "Mario Puzo",
+      "born": "1972-01-15",
+      "bio": "The Godfather  is a crime novel by American author Mario Puzo. Originally published in 1969",
+      "id": "4aca"
+    },
+    {
+      "name": "Tim benlee",
+      "born": "1996-11-27",
+      "bio": "Popular for Fictional stories",
+      "id": "0536"
+    },
+    {
+      "id": "2f48",
+      "name": "Jane Austen",
+      "born": "1813-12-01",
+      "bio": "Pride and Prejudice by Jane Austen adorned shelves of many a learned reader in the 1800s and 1900s"
+    }
+  ]
+}
